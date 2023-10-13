@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
     // Metodo responsavel por realizar o setup da view e recuperar os Ids do layout
     fun setupView() {
         //@TODO 1 - Recuperar os Id's da tela para a Activity com o findViewById
+        nomeUsuario = 
     }
 
     //metodo responsavel por configurar os listeners click da tela
